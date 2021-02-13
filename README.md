@@ -10,6 +10,9 @@ After our intial analysis and data upgrades we were tasked with 2 more projects 
   - Analysis shows that not only does PH have an incredible amount employees retiring a high percentage of them are SENIOR STAFF and SENOIR ENGINEERS 
   - Although there are JUNIOR STAFF and ENGINEERS to fill the roles there may be gaps intially
   - A large percentage of employees are 
+  
+ ![plot](./Data/unique.PNG)
+ 
   -
 ### Employees Eligible for the Mentorship Program
   - There are 1549 employees that are eligible to mentor (insert fig) 
