@@ -15,10 +15,10 @@ After our intial analysis and data upgrades we were tasked with 2 more projects 
   
   
 ### Employees Eligible for the Mentorship Program
-  - There are 1549 employees that are eligible to mentor (insert fig) 
+  - There are 1549 employees that are eligible to mentor (see kink) 
   - Of the titles eligible Senior Engineers and Engineers make up a majority of the pool. 
   - https://github.com/timmyclean/Pewlett-Hackard-Analysis/blob/main/Data/eligible.PNG                 
-  -
+  - The Development sector PH will need a stuctured plan to ensure a  smooth transition
 ## Summary
 
 ### Retiring Employees per Title
@@ -34,7 +34,7 @@ After our intial analysis and data upgrades we were tasked with 2 more projects 
   - Plan to have cross training more regularly to see if employees can fill needs internally, again offer incentives to training. 
 ### Additional Queries
   - We looked at adding more WHERE, AND statements to the mentorship_eligibility table, we wanted to see how many employees were "SENIOR" and who were in other roles, we found of the 1500 available around 500 were ENGINEERS. This showed us that less and less employees are becoming SENIOR staff and more focus is going into development. 
-  - 
+  - It would be beneficial to look at the lenght of a PH career in relation to salary.
   
 ## Conclusion
 Overall with the updates made to the Database system and integrating new tools will be very beneficial to PH. These in the long run will help streamline work, and better distrubute resources to areas that can help the bottom line with greater positive effect.
