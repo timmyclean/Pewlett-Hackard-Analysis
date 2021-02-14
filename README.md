@@ -11,7 +11,7 @@ After our intial analysis and data upgrades we were tasked with 2 more projects 
     high percentage of them are SENIOR STAFF and SENOIR ENGINEERS                                                                                   
   - Although there are JUNIOR STAFF and ENGINEERS to fill the roles there may be gaps intially
                               
-                              ![plot](./Data/unique.PNG)
+                              ![plot](./Data/unique.PNG) 
   
   
 ### Employees Eligible for the Mentorship Program
