@@ -17,7 +17,7 @@ After our intial analysis and data upgrades we were tasked with 2 more projects 
 ### Employees Eligible for the Mentorship Program
   - There are 1549 employees that are eligible to mentor (insert fig) 
   - Of the titles eligible Senior Engineers and Engineers make up a majority of the pool. 
-  - 
+  - https://github.com/timmyclean/Pewlett-Hackard-Analysis/blob/main/Data/eligible.PNG
   -
 ## Summary
 
