@@ -9,9 +9,9 @@ After our intial analysis and data upgrades we were tasked with 2 more projects 
 ### Retiring Employees per Title
   - Analysis shows that not only does PH have an incredible amount employees retiring a 
     high percentage of them are SENIOR STAFF and SENOIR ENGINEERS                                                                                   
-  - Although there are JUNIOR STAFF and ENGINEERS to fill the roles there may be gaps intially
-                              
+  - Although there are JUNIOR STAFF and ENGINEERS to fill the roles there may be gaps intially      
                                ![plot](./Data/unique.PNG)
+                         
   
   
 ### Employees Eligible for the Mentorship Program
