@@ -37,4 +37,4 @@ After our intial analysis and data upgrades we were tasked with 2 more projects 
   - It would be beneficial to look at the lenght of a PH career in relation to salary.
   
 ## Conclusion
-Overall with the updates made to the Database system and integrating new tools will be very beneficial to PH. These in the long run will help streamline work, and better distrubute resources to areas that can help the bottom line with greater positive effect.
+Overall with the updates made to the Database system and integrating new tools will be very beneficial to PH. These in the long run will help streamline work, and better distrubute resources to areas that can help the bottom line with greater positive effect.d
